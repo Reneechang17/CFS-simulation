@@ -1,6 +1,6 @@
-Task Scheduler learning
+# Task Scheduler learning
 
-- If anybody would like to see my note, [here is] (./task-scheduler-note.pdf)
+- If anybody would like to see my note, [here is](./task-scheduler-note.pdf) (./task-scheduler-note.pdf)
 
 ## Build and Run
 
